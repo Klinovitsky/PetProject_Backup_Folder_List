@@ -1,0 +1,7 @@
+Setting,Value
+backup_to,C:\_BAK\_BACKUP_MY_UTIL
+path_to_7zip,C:\Program Files\7-Zip\7z.exe
+zip_options,a -tzip -ssw -mx5 -r0
+test_archive,yes
+copy_folders_after_archiving,yes
+copy_to,C:\_BAK\_BACKUP_MY_UTIL_EXT
